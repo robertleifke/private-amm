@@ -1,10 +1,10 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.8;
 
-import "suave-std/suavelib/Suave.sol";
-import "suave-std/Context.sol";
+import "lib/suave-std/src/suavelib/Suave.sol";
+import "lib/suave-std/src/Context.sol";
 
-contract OFAPrivate {
+contract SealedBidAuction {
     // Struct to hold hint-related information for an order.
     struct HintOrder {
         Suave.DataId id;

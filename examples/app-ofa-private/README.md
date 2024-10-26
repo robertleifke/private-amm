@@ -1,4 +1,4 @@
-# Example Suapp for an OFA application with private transactions
+# Sealed Bid Auction
 
 This example features an [Order flow auction](https://collective.flashbots.net/t/order-flow-auctions-and-centralisation-ii-order-flow-auctions/284) Suapp based on the [mev-share](https://github.com/flashbots/mev-share) protocol specification.
 
